@@ -1,0 +1,38 @@
+.profilea{
+    width:30px;
+    height:30px;
+}
+.star{
+    width:20px;
+    height:20px;
+    color:yellow !important ;
+}
+.wcu-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+    width:200px;
+
+
+}
+.wcu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+.background2{
+    background-color:#cedae7;
+    height:50vh;
+    border-radius:10px;
+    margin:30px;
+  
+
+}
+
+.margin5{
+    margin-top:70px;
+}
